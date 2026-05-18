@@ -10,11 +10,11 @@ Two reconstruction workflows are included:
 
 `main_2D.py` performs sparse reconstruction of the 1D sloshing free-surface in a 2D rectangular tank.
 
-SPH simulations of a rectangular sloshing tank with length \(0.45 \, \mathrm{m}\) are run at several forcing frequencies. Each case provides the free-surface elevation at many spatial points and time steps.
+SPH simulations of a rectangular sloshing tank with length **0.45 m** are run at several forcing frequencies. Each case provides the free-surface elevation at many spatial points and time steps.
 
 ## 3D reconstruction
 
 `main_3D.py` performs sparse reconstruction of the full 2D free-surface field in a rectangular tank.
 
-SPH simulations of a rectangular sloshing tank with dimensions \(0.45 \, \mathrm{m} \times 0.30 \, \mathrm{m}\) are run at several single-axis \(X\), single-axis \(Y\), and combined \(X+Y\) forcing frequencies. Each case provides the free-surface elevation over a full 2D spatial grid at many time steps.
+SPH simulations of a rectangular sloshing tank with dimensions **0.45 m × 0.30 m** are run at several single-axis **X**, single-axis **Y**, and combined **X+Y** forcing frequencies. Each case provides the free-surface elevation over a full 2D spatial grid at many time steps.
 
