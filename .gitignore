@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+
+# Virtual environments
+.venv/
+
+# Results
+outputs_2D/
+outputs_3D/
