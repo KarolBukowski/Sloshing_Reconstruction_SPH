@@ -79,7 +79,7 @@ x_exp = np.arange(-0.22, 0.22 + 1e-3, 0.02)  # 23 points in x
 y_exp = np.arange(-0.14, 0.14 + 1e-3, 0.02)  # 15 points in y
 
 # which case to reconstruct in Stage 3
-case_key = "case12"
+case_key = "X1.2Hz_Y1.6Hz"
 
 # =============================================================================
 #  STAGE 1 - LOAD AND PREPROCESS ALL CASES
